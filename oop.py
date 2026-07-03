@@ -102,7 +102,7 @@ class Student:
     def hello():
         print("hello")
 
-s1=Student("Khushbu",20)
+s1=Student("Khushbu+++",20)
 s1.welcome()
 s1.your_age()
 s1.hello()
