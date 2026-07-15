@@ -1,4 +1,4 @@
-#opp= object orention programing language to map with real world scenarios, we started using object in code
+opp= object orention programing language to map with real world scenarios, we started using object in code
 # procedural type coding
 
 
